@@ -11,3 +11,5 @@ Eins zwei drei vier fünf sechs. Sieben acht neun, zehn elf zwölf, dreizehn. Vi
 As 'The Character' said:
 > This is cool.
 > You have to remember it.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/2000px-Smiley.svg.png"/>
